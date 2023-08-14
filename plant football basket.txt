@@ -289,3 +289,7 @@ https://universe.roboflow.com/objectdetection-xljmq/cucumberdetection
 https://universe.roboflow.com/test-1df8h/agriculture-smart
 https://universe.roboflow.com/st-aloysius-institute-of-management-and-information-technology-jbmv4/leaf-detection1-uj6vm
 
+important
+https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+https://www.kaggle.com/datasets/seroshkarim/cotton-leaf-disease-dataset
+https://www.kaggle.com/datasets/janmejaybhoi/cotton-disease-dataset
