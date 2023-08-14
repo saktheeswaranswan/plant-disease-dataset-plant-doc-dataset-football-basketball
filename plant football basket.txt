@@ -1,0 +1,7 @@
+https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc
+https://universe.roboflow.com/roboflow-universe-projects/basketball-players-fy4c2
+https://universe.roboflow.com/roboflow-universe-projects/fire-and-smoke-segmentation
+https://universe.roboflow.com/roboflow-universe-projects/construction-site-safety
+https://universe.roboflow.com/roboflow-universe-projects/safety-vests
+https://universe.roboflow.com/roboflow-universe-projects
+https://universe.roboflow.com/altran/fakenote4types-2
