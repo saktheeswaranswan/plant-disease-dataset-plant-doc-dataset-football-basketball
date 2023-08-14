@@ -293,3 +293,13 @@ important
 https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 https://www.kaggle.com/datasets/seroshkarim/cotton-leaf-disease-dataset
 https://www.kaggle.com/datasets/janmejaybhoi/cotton-disease-dataset
+
+https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset
+https://www.kaggle.com/datasets/hsmcaju/d-kap
+https://www.kaggle.com/discussions/general/204901
+https://www.kaggle.com/datasets/alinedobrovsky/plant-disease-classification-merged-dataset
+https://www.kaggle.com/datasets/vbookshelf/rice-leaf-diseases
+https://www.kaggle.com/datasets/minhhuy2810/rice-diseases-image-dataset
+https://www.kaggle.com/discussions/general/96313
+https://www.kaggle.com/datasets/shayanriyaz/riceleafs
+https://www.kaggle.com/datasets/rajkumar898/rice-plant-dataset
