@@ -1,3 +1,5 @@
+https://github.com/facebookresearch/segment-anything
+https://www.kaggle.com/code/jaiminmukeshjariwala/image-segmentation-obj-detection-sam-yolov8
 https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc
 https://universe.roboflow.com/roboflow-universe-projects/basketball-players-fy4c2
 https://universe.roboflow.com/roboflow-universe-projects/fire-and-smoke-segmentation
@@ -303,3 +305,5 @@ https://www.kaggle.com/datasets/minhhuy2810/rice-diseases-image-dataset
 https://www.kaggle.com/discussions/general/96313
 https://www.kaggle.com/datasets/shayanriyaz/riceleafs
 https://www.kaggle.com/datasets/rajkumar898/rice-plant-dataset
+https://www.kaggle.com/code/iqmansingh/gun-knife-detection-yolov5-fasterrcnn
+https://www.kaggle.com/code/soumikrakshit/yolo-v3-using-tensorflow-2-0
