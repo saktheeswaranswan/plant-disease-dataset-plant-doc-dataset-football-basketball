@@ -309,3 +309,12 @@ https://www.kaggle.com/code/iqmansingh/gun-knife-detection-yolov5-fasterrcnn
 https://www.kaggle.com/code/soumikrakshit/yolo-v3-using-tensorflow-2-0
 
 https://www.kaggle.com/c/plant-pathology-2021-fgvc8
+
+
+important plant disease dataset 
+rice plant disease dataset segmentation
+
+https://universe.roboflow.com/thiagarajar-college-of-engineering-x4cmh/rice-plant-disease-detection
+
+https://universe.roboflow.com/thiagarajar-college-of-engineering-x4cmh/rice-plant-disease-detection
+
