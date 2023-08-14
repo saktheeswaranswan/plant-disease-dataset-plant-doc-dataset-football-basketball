@@ -307,3 +307,5 @@ https://www.kaggle.com/datasets/shayanriyaz/riceleafs
 https://www.kaggle.com/datasets/rajkumar898/rice-plant-dataset
 https://www.kaggle.com/code/iqmansingh/gun-knife-detection-yolov5-fasterrcnn
 https://www.kaggle.com/code/soumikrakshit/yolo-v3-using-tensorflow-2-0
+
+https://www.kaggle.com/c/plant-pathology-2021-fgvc8
